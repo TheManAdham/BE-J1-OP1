@@ -1,3 +1,1 @@
-# BE-J1-OP1
-# BE-J2-OP1
 # BE-opdracht1-J2-P1-337142
